@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">fakeGPS</string>
     <string name="title_activity_maps">Map</string>
+    <string name="longitude">longitude</string>
+    <string name="altitude">altitude</string>
+    <string name="send">send</string>
 </resources>
